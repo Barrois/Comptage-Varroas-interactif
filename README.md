@@ -1,5 +1,5 @@
 # Comptage-Varroas-interactif
-L'apiculteur envoit un scan, 
-nous lui fournissons les objets que nous voyons comme varroas possibles grâce à une IA,
-il effectue le tri et obtient son décompte,
-de notre coté nous récupérons les varroas et non-varroas triés pour améliorer l'IA.
+L'apiculteur envoie un scan. 
+Nous utilisons une intelligence artificielle pour détecter les objets que nous identifions comme des varroas potentiels. 
+Ensuite, il procède à la classification et obtient son décompte. 
+De notre côté, nous récupérons les varroas et les non-varroas triés afin d'améliorer l'efficacité de l'intelligence artificielle.
